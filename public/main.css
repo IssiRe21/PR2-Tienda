@@ -1,0 +1,35 @@
+.logo{
+    height: 100px;
+    width: 100px;
+}
+
+.titulo{
+    color:seagreen;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+body{
+    background-image: url(/img/Fondo.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.verde{
+    background-color: #dff2d4;
+}
+
+.div-img{
+    text-align: center;
+}
+
+.img{
+    height: 400px;
+    width: auto;
+}
+
+.centrar{
+    text-align: center;
+}
+
